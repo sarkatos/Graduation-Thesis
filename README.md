@@ -12,7 +12,6 @@ Este repositório contém a minha tese de graduação em Física com ênfase em 
 - **Texto Oficial no Lumen:** [Acessar a Tese Completa](#)
 - **Redes Sociais:**
   - [Instagram](https://www.instagram.com/v_guez): Divulgação Científica
-  - [Twitter](https://x.com/sarka_tos): Postagens Relacionadas
 - **Publicações na Imprensa:**
   - [Artigo na Revista Científica](#)
 
